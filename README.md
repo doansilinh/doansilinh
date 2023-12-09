@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Python<br>🎯 Goals: Data Analytics</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Python<br>🎯 Goals: Data Engineer</p>
 
 ###
 
